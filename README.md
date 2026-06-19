@@ -1,16 +1,34 @@
-## Hi there 👋
+# Aravind Kumar
 
-<!--
-**aravindkumar-sankaran/aravindkumar-sankaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Data Engineer ⚡
+Cloud Builder ☁️
+AI Explorer 🤖
+```
 
-Here are some ideas to get you started:
+I spend my time building things that move data, automate workflows, and make systems smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+`Python` `SQL` `BigQuery` `GCP` `Dataproc`
+`Cloud Run` `Terraform` `Airflow` `Kafka`
+
+### Building
+
+🚀 Data Platforms
+
+⚡ Event-Driven Pipelines
+
+🤖 AI & Agentic Systems
+
+📈 Analytics at Scale
+
+### Philosophy
+
+> Collect less noise.
+> Build more systems.
+> Automate everything possible.
+
+---
+
+Currently learning how Data Engineering and AI converge into intelligent, autonomous platforms.
