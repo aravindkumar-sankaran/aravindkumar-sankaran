@@ -10,8 +10,8 @@ I spend my time building things that move data, automate workflows, and make sys
 
 ### Stack
 
-`Python` `SQL` `BigQuery` `GCP` `Dataproc`
-`Cloud Run` `Terraform` `Airflow` `Kafka`
+`Python` `SQL` `BigQuery` `GCP` 
+`Cloud Run` `Terraform` `Airflow` 
 
 ### Building
 
